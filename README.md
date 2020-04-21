@@ -26,9 +26,10 @@
 ### My Conclusion
 [What do you think about the work presented in the article? Did the authors manage to achieve what they set out to achieve?]
 ## Extra
-### Cited References to follow up on
-### Source Code/Other Links
-### Template inspired from:
+### Cited references to follow up on
+### Source code/other links
+---
+## References used when making this template
 - [Template for taking notes for a paper? - Academia Stack Exchange](https://academia.stackexchange.com/questions/17113/template-for-taking-notes-for-a-paper)
 - [Writing Notes](https://www.owlnet.rice.edu/~cainproj/writingtips/notes2.pdf)
 - [How to Read A paper](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
