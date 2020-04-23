@@ -3,7 +3,7 @@
 [link]
 ## Research Topic
 - Category (General) :
-- Categary (Specific) :
+- Category (Specific) :
 ## Paper summary
 [Summary of the paper - a few sentences with bullet points]
 ## Issues addressed by the paper
