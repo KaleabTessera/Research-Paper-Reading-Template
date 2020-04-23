@@ -13,9 +13,9 @@
 ## Prominent Figures
 [Can be empty]
 ## Results
-[Theoretical or emperical results(any main tables)]
-## Limitations mentioned
-[Did the authors mention any limitations to their work?]
+[Theoretical or empirical results(any main tables)]
+## Limitations
+[Did the authors mention any limitations to their work? Do you see any limitations of their work?]
 ## Confusing aspects of the paper
 [Is there anything that is confusing and could need better explanations or references?]
 ## Conclusions
