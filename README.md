@@ -2,9 +2,13 @@
 ## Quick Look
 
 **Authors & Affiliation**: [Authors] [Affiliations]
+
 **Link** : [Paper link]
+
 **Comments:**  [e.g. Published at X / arXiv paper/ in review.]
+
 **TLDR:** [One or at most two line summary.] 
+
 **Relevance**: [Score between 1 and 5, stating how relevant this paper is to your work. Usually filled in at the end. ]
 
 ## Research Topic
