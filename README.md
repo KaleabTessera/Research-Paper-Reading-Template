@@ -14,6 +14,7 @@
 ## Research Topic
 - Category (General) :
 - Category (Specific) :
+
 ## Paper summary (What)
 [Summary of the paper - a few sentences with bullet points. What did they do?]
 
@@ -21,6 +22,7 @@
 [What are the issues that the paper addresses? Describe the problem. Why did they write this paper?]
 
 ## Detailed Information (How)
+[ Only for work that appears to be highly related from reading abstract/intro/conclusion.]
 
 ### Methodology
 
@@ -35,14 +37,18 @@
 
 ### Prominent Figures
 [Can be empty]
+
 ### Results
 [Theoretical or empirical results (any main tables) ]
 
 ### Limitations
 [Did the authors mention any limitations to their work? Do you see any limitations of their work?]
+
 ### Confusing aspects of the paper
 [Is there anything that is confusing and could need better explanations or references?]
+
 ## Conclusions
+
 ### The author's conclusions
 [What are the authors conclusion? What do they claim about their results.]
 
@@ -50,12 +56,20 @@
 [What do you think about the work presented in the article? Did the authors manage to achieve what they set out to achieve?]
 
 ### Rating
-
-[Fine, Good, Great, Wow, Turing Award ]
+[Fine, Good, Great]
 
 ## Possible future work / improvements
-
 [Can you think of ways to improve this paper or ideas for future work?]
+
+## Relation to Own Work
+[If related to own work.]
+
+- What can we learn from their approach:
+- How are we different:
+
+## Extra
+- Cited references to follow up on / related papers:
+- Source code/ blog/ twitter thread/ other links:
 
 ## Extra
 - Cited references to follow up on / related papers:
