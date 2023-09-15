@@ -1,7 +1,7 @@
 # [Title]
 ## Quick Look
 
-**Authors & Affiliation**: [Authors] [Affiliations]
+**Authors & Affiliation**: [Authors]
 
 **Link** : [Paper link]
 
@@ -71,9 +71,6 @@
 - Cited references to follow up on / related papers:
 - Source code/ blog/ twitter thread/ other links:
 
-## Extra
-- Cited references to follow up on / related papers:
-- Source code/ blog/ twitter thread/ other links:
 ---
 ## References
 - [Template for taking notes for a paper? - Academia Stack Exchange](https://academia.stackexchange.com/questions/17113/template-for-taking-notes-for-a-paper)
