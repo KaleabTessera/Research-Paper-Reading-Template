@@ -1,7 +1,9 @@
 # [Title]
 ## Quick Look
 
-**Authors & Affiliation**: [Authors]
+**Authors**: [Authors]
+
+**Date Published** : [Date published or submitted.]
 
 **Link** : [Paper link]
 
@@ -12,8 +14,7 @@
 **Relevance**: [Score between 1 and 5, stating how relevant this paper is to your work. Usually filled in at the end. ]
 
 ## Research Topic
-- Category (General) :
-- Category (Specific) :
+- Tags: [General or specific research topic tags e.g. rl, nlp or efficient-nlp.]
 
 ## Paper summary (What)
 [Summary of the paper - a few sentences with bullet points. What did they do?]
