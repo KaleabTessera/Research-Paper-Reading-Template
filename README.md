@@ -16,7 +16,7 @@
 **Tags**: [General or specific research topic tags e.g. rl, nlp or efficient-nlp. Could also be used to specify the conference this was accepted at or any useful grouping.]
 
 ## Paper summary (What)
-[Summary of the paper - a few sentences with bullet points. What did they do?]
+[Summary of the paper - a few sentences with bullet points. What did they do? What is their hypothesis? ]
 
 ## Issues addressed by the paper (Why)
 [What are the issues that the paper addresses? Describe the problem. Why did they write this paper?]
@@ -42,7 +42,7 @@
 [Theoretical or empirical results (any main tables) ]
 
 ### Limitations
-[Did the authors mention any limitations to their work? Do you see any limitations of their work?]
+[Did the authors mention any reservations/limitations to their work or methodology? Do you see any limitations of their work?]
 
 ### Confusing aspects of the paper
 [Is there anything that is confusing and could need better explanations or references?]
@@ -50,7 +50,7 @@
 ## Conclusions
 
 ### The author's conclusions
-[What are the authors conclusion? What do they claim about their results.]
+[What is the author's conclusion? What do they claim about their results?]
 
 ### My Conclusion
 [What do you think about the work presented in the article? Did the authors manage to achieve what they set out to achieve?]
