@@ -68,8 +68,8 @@
 - How are we different:
 
 ## Extra
-- Cited references to follow up on / related papers:
-- Source code/ blog/ twitter thread/ other links:
+- Cited references to follow up on/related papers/check google scholar for papers citing this paper:
+- Source code/blog/twitter thread/other links:
 
 ---
 ## References
