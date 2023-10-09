@@ -24,8 +24,10 @@
 ## Detailed Information (How)
 [ Only for work that appears to be highly related from reading abstract/intro/conclusion.]
 
-### Methodology
+### Problem Setting
+[ What is the problem setting e.g. regression, classification or sequence prediction? In RL, this would also include the environment and details about rewards etc. ]
 
+### Methodology
 [How did they approach the problem. What methods did they use? ]
 
 ### Assumptions
