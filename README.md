@@ -25,23 +25,19 @@
 [ Only for work that appears to be highly related from reading abstract/intro/conclusion.]
 
 ### Problem Setting
-[ What is the problem setting e.g. regression, classification or sequence prediction? In RL, this would also include the environment and details about rewards etc. ]
+[ What is the problem setting e.g. regression, classification or sequence prediction? In RL, this would also include the environment and details about rewards etc. This should include the evaluation setting for the results. ]
 
 ### Methodology
-[How did they approach the problem. What methods did they use? ]
+[How did they approach the problem. What methods did they use?]
 
 ### Assumptions
 [What assumptions were made and are these assumptions valid?]
 
 ### Prominent Formulas
-
-[Can be empty]
-
-### Prominent Figures
 [Can be empty]
 
 ### Results
-[Theoretical or empirical results (any main tables) ]
+[Theoretical or empirical results (any main graphs and tables). Also try to possibly mention **why** you or the authors think certain results occurred. ]
 
 ### Limitations
 [Did the authors mention any reservations/limitations to their work or methodology? Do you see any limitations of their work?]
