@@ -17,6 +17,8 @@
 
 **Soundness**: [Score between 1 and 3 for how sound the results in the paper are. Was their training and/or evaluation settings fair and sound? Did they fairly compare to all relevant work? Similiar to the soundness scores for conference reviews.]
 
+**Main Takeaway(s)**: [Main takeaway(s) from the paper. Usually 1 or two sentences max. This usually only makes sense if you have done a detailed read of the paper. I would be mindful of assumptions/soundness of the paper when deciding what the main takeaways are. ]
+
 ## Paper summary (What)
 [Summary of the paper - a few sentences with bullet points. What did they do? What is their hypothesis? ]
 
