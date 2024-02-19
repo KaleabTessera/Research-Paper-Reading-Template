@@ -15,6 +15,8 @@
 
 **Tags**: [General or specific research topic tags e.g. rl, nlp or efficient-nlp. Could also be used to specify the conference this was accepted at or any useful grouping.]
 
+**Soundness**: [Score between 1 and 3 for how sound the results in the paper are. Was their training and/or evaluation settings fair and sound? Did they fairly compare to all relevant work? Similiar to the soundness scores for conference reviews.]
+
 ## Paper summary (What)
 [Summary of the paper - a few sentences with bullet points. What did they do? What is their hypothesis? ]
 
