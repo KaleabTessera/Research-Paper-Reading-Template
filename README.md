@@ -9,7 +9,9 @@
 
 **Date Published** : [Date published or submitted.]
 
-**Link** : [Paper link]
+**Paper Link** : [Personal annotated version of the paper or public online version. ]
+
+**Talk Link**: [Optional talk link e.g. from slideslive if published.]
 
 **Comments:**  [e.g. Published at X / arXiv paper/ in review.]
 
