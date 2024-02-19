@@ -1,3 +1,7 @@
+:scroll: Notion template now available [here](https://sugared-dietician-05e.notion.site/Paper-49472c3e720b423ba1bcae04fd14a4f0). 
+---
+
+
 # [Title]
 ## Quick Look
 
